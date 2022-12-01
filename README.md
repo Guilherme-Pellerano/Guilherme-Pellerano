@@ -4,7 +4,8 @@
 
 - 🔭 Estou buscando minha primeira oportunidade como programador front-end
 - 🌱 Estudando Javascript
-- 📫 Contate-me no email: guilhermepellerano@hotmail.com
+
+##
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
